@@ -19,7 +19,7 @@ vae model: https://huggingface.co/black-forest-labs/FLUX.1-dev/blob/main/ae.safe
 to models/vae
 
 t5 models: xlabs-ai/xflux_text_encoders
-to models/clip
+to models/text_encoders
 
 clip models: openai/clip-vit-large-patch14
 to models/clip
